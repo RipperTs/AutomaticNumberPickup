@@ -24,4 +24,4 @@ pyinstaller app.spec
 - 解包工具: [KillWxapkg](https://github.com/Ackites/KillWxapkg)
 
 ## 小程序码示例
-![img.png](img.png)
+![Xnip2024-11-07_14-22-28.png](Xnip2024-11-07_14-22-28.png)
