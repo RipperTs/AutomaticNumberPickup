@@ -4,6 +4,17 @@
 
 经纬度参考: 35.012981,118.269783 支持模拟定位
 
+## 运行
+
+```shell
+python web_main.py
+
+浏览器访问 http://127.0.0.1:5000
+```
+
+`main.py` 文件是基础调试版本, 请使用`web_main.py`文件运行
+
+
 ## 打包
 ```shell
 pyinstaller app.spec
